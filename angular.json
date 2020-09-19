@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Cakess"
+    }
+  },
+  "defaultProject": "Cakess",
+  "cli": {
+    "analytics": "c7c58f90-ab02-4df4-8d24-78a676dabdb3"
+  }
 }
